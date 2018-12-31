@@ -1,5 +1,5 @@
 # Lotto-nagroda
-
+Zasady dużego lotka to typowanie 6 liczb z 49. Ponieważ trafienie jest tu bardzo trudne, program został zapisany w taki sposób, aby można było łatwo dostosować poziom jego trudności.
 Główny plik programu to "Duży Lotek - Program Główny" importuje on z pliku moduł "Duży_Lotek_Moduł" następujące funkcje:
 
 def ustawienia():
